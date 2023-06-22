@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".info">
+
+<LinearLayout
+    android:layout_gravity="center"
+    android:layout_width="350dp"
+    android:layout_height="400dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="5dp"
+        android:text="Aplikasi rekomendasi resto terdekat adalah solusi praktis untuk menemukan tempat makan yang sesuai dengan preferensi kita. Dalam tugas kuliah ini, mari kita jelajahi fungsionalitas sederhana aplikasi ini.
+Aplikasi ini dirancang untuk membantu kita menemukan restoran terdekat dengan mudah. Dalam beberapa langkah sederhana, kita dapat melihat pilihan restoran di sekitar lokasi kita saat ini. Dengan menggunakan teknologi lokasi, aplikasi ini dapat menampilkan restoran terdekat dalam radius tertentu. Hal ini memungkinkan kita untuk menemukan opsi makan yang nyaman dan tidak jauh dari tempat kita berada. Dalam kesederhanaannya, aplikasi ini memungkinkan kita menemukan restoran terdekat tanpa harus menghabiskan waktu dan tenaga mencari informasi secara manual. Dengan beberapa ketukan di layar, kita dapat menemukan tempat makan yang memuaskan selera kita."
+        android:textStyle="bold">
+
+
+
+    </TextView>
+
+
+
+</LinearLayout>
+
+</FrameLayout>
